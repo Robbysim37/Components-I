@@ -87,6 +87,23 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Testing out adding a new object',
+    date: 'Nov 2nd, 2022',
+    firstParagraph: `Pokem ipsum dolor sit amet Chimecho Kyogre Glameow Carracosta what kind of Pokemon are you Red. 
+          Scratch Electrike Viridian City Bellossom Lugia Qwilfish Staryu. Splash Baltoy Flaaffy Croconaw Psychic Cloyster Tropius. 
+          Electric Mew they're comfy and easy to wear Cascade Badge Togepi Spinarak Ash's mother. Consectetur adipisicing elit Whirlipede Staryu they're comfy and easy to wear Zubat Smeargle Masquerain. `,
+
+    secondParagraph: `Ghost Pokemon The Movie 2000 Cherubi Magnezone Joltik Honchkrow 
+          Golurk. Fighting Cloyster Dig Kyurem Wingull Probopass Whimsicott. Harden Psychic 
+          Hippopotas Cascoon Latias Reuniclus Normal. Rock Giovanni Hydreigon Flamethrower Vanillite Drifblim Electric. 
+          Steel Mantyke Armaldo Castform Gothita Weavile Spearow. `,
+
+    thirdParagraph: `Pokemon Heroes Fraxure Gardevoir Lotad Alakazam I wanna be the very 
+          best Darkrai. Consectetur adipisicing elit Koffing Phanpy Articuno Swadloon ut 
+          aliquip Elgyem. Thundershock Shaymin Seismitoad Slakoth Marill Ludicolo Houndoom. Cascade Badge Ninetales Bastiodon Bisharp Combee 
+          Landorus Spinda. Cerulean City Fearow Conkeldurr Gloom Virizion Wobbuffet Koffing. `
   }
 ];
 
@@ -115,3 +132,5 @@ const data = [
   Step 5: Try adding new article object to the data array. Make sure it is in the same format as the others.
   Refresh the page to see the new article.
 */
+
+export {data}
